@@ -6,7 +6,7 @@ import PersonIcon from '@material-ui/icons/Person'
 import IconButton from '@material-ui/core/IconButton'
 import ForumIcon from '@material-ui/icons/Forum'
 
-import logo from '../logo-header-beach-sand.png'
+import logo from '../../logo-header-beach-sand.png'
 
 const Header = () => {
     return (<div className="header">
